@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Chaeyeong Imm (임채영)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIcyeong&count_bg=%2342BA3E&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+# Chaeyeong Imm (임채영) 
+
+
 
 
 <!--
@@ -61,7 +64,4 @@ I'm a Front-End Developer, Chaeyeong Imm.
 <br />
 <img align="left" alt="dav1dk1m's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Icyeong&show_icons=true&hide_border=false&theme=radical" />
 <img align="right" alt="dav1dk1m's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyeong&theme=radical" />
-
-
-
 
