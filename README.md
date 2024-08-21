@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Chaeyeong Imm (임채영)
+# Chaeyeong Imm (임채영) 
 
 
 
