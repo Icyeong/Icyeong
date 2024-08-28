@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/dav1dk1m/dav1dk1m/blob/main/Image.png" width="30%" align="right">
 ![](https://komarev.com/ghpvc/?username=dav1dIcyeongk1m&color=brightgreen&label=PROFILE+VIEWS)
 - 👨‍🎓 I’m currently a Software System Engineering Student 🖥️
+- 🌱 I’m currently learning React and TypeScript :woman_technologist:
 -->
 
 
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 <br>
 
 I'm a Front-End Developer, Chaeyeong Imm.
-- 🌱 I’m currently learning React and TypeScript :woman_technologist:
 
 
 
