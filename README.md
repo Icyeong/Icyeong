@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 <br>
-
 I'm a Front-End Developer, Chaeyeong Imm.
 
 
-
-
+<br />
+<br />
 <br />
 
 ### Languages:
