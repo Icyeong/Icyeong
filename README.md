@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIcyeong&count_bg=%2342BA3E&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://github.com/dav1dk1m/dav1dk1m/blob/main/Image.png" width="30%" align="right">
+<img src="https://github.com/dav1dk1m/dav1dk1m/blob/main/Image.png" width="30%" align="right">.  
 ![](https://komarev.com/ghpvc/?username=dav1dIcyeongk1m&color=brightgreen&label=PROFILE+VIEWS)
 - 👨‍🎓 I’m currently a Software System Engineering Student 🖥️
 - 🌱 I’m currently learning React and TypeScript :woman_technologist:
